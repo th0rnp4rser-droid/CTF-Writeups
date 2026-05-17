@@ -12,7 +12,7 @@ https://zoox.com/journal/resorts-world-las-vegas/
 この発表でリゾーツ・ワールド・ラスベガス以外の可能性は低いだろうと思いつつ、Google Mapで外観確認。  
 見た目が一致したので、Google Mapから緯度経度を取得してFlag Get。
 
-## It`s not a car.
+## AV Striking
 
 ### 問題文
 リンク先のインシデントが発生した場所はどこか。  
